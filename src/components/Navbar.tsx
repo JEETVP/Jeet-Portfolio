@@ -14,7 +14,7 @@ export default function Navbar() {
         <div className="flex items-center gap-4">
           <span className="text-xs tracking-[0.5em] text-taupe/80">01</span>
           <Link href="#top" className="text-sm font-semibold tracking-[0.32em] text-charcoal">
-            JEET'S PORTFOLIO
+            JEET&apos;S PORTFOLIO
           </Link>
         </div>
         <nav className="hidden items-center gap-7 md:flex">
