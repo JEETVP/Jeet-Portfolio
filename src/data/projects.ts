@@ -1,5 +1,6 @@
 import type { StaticImageData } from 'next/image';
 import alloraImage from '@/imgs/allora.jpg';
+import donJuanImage from '@/imgs/donjuan.png';
 import iconsImage from '@/imgs/icons.png';
 import optimaErpImage from '@/imgs/optimaerp.png';
 import tramitaImage from '@/imgs/tramita.jpg';
@@ -90,6 +91,7 @@ export const projects: Project[] = [
     name: 'LACTO PRODUCTOS DE ORIENTE',
     description:
       'A minimum viable product focused on strengthening the company’s digital presence. It showcases products, improves brand visibility and creates new commercial opportunities through a modern web platform.',
+    image: donJuanImage,
     technologies: ['React', 'Vite'],
     codeLinks: [
       {
