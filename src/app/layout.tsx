@@ -16,7 +16,7 @@ const sans = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'JEET — Full Stack Developer',
+  title: "Jeet's Portfolio",
   description: 'Portfolio landing page for Jeet, a full stack developer focused on web, UX/UI, requirements engineering, and SAP Business One.'
 };
 

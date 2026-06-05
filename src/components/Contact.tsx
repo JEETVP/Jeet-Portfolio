@@ -36,7 +36,7 @@ const contactLinks: ContactLink[] = [
   {
     title: 'CV',
     text: 'Download professional profile',
-    href: '/cv/roberto-villegas-cv.pdf',
+    href: '/cv/ROBERTOVILLEGASCV.pdf',
     icon: curriculumIcon,
     external: true
   }
